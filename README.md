@@ -1,4 +1,4 @@
-# StudentInformationQuerySystem
+# StudentAchievementQuerySystem
 <h2>学生信息查询系统，与SAMS学生成绩管理系统配套使用</h2>
 <h3>使用方法：<h3>
 <h3>首先在学生成绩管理系统中导出信息到文件（主页->文件操作->保存信息到文件）</h3>
